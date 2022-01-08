@@ -10,6 +10,6 @@ Underwater image classification of 8 different classes
 * 'turtle': 6
 * 'wreckage': 7
 
-Imagesa re scraped from internet using chrome plugin and transfer learning from mobile net is implemented 
+Images are scraped from internet using chrome plugin and transfer learning from mobile net is implemented. The validation accuracy is 95 percentage.
 
-The validation accuracy is 95 percentage.
+dataset link on drive: https://drive.google.com/drive/folders/1Ab6JDBHJd9dpD3WISHS-LTRL_xKncdR5?usp=sharing
