@@ -1,6 +1,12 @@
 # Underwater-image-classification
+The project is aimed to be implemented at an Autonomous Underwater Vehicle at project AUV manipal. 
+We have used transfer learning from mobile net V2 to pretrain the model, therefore got a higher prediction accuracy even without much image preprocessing
 
-Underwater image classification of 8 different classes 
+Images scraped from website using a chrome plugin
+
+Dataset link on drive: https://drive.google.com/drive/folders/1Ab6JDBHJd9dpD3WISHS-LTRL_xKncdR5?usp=sharing
+
+Underwater images are in 8 different classes 
 * 'auv': 0
 * 'fish': 1
 * 'jellyfish': 2
@@ -10,6 +16,4 @@ Underwater image classification of 8 different classes
 * 'turtle': 6
 * 'wreckage': 7
 
-Images are scraped from internet using chrome plugin and transfer learning from mobile net is implemented. The validation accuracy is 95 percentage.
-
-dataset link on drive: https://drive.google.com/drive/folders/1Ab6JDBHJd9dpD3WISHS-LTRL_xKncdR5?usp=sharing
+**Result:-** Prediction accuracy: 94.48%
